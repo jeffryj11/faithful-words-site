@@ -1,0 +1,33 @@
+
+body {
+  font-family: Georgia, serif;
+  background-color: #fdf8f0;
+  color: #442c2e;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #4b2e2e;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+header img.logo {
+  max-height: 60px;
+  margin-bottom: 10px;
+}
+nav a {
+  margin: 0 1rem;
+  color: #f5f5dc;
+  text-decoration: none;
+  font-weight: bold;
+}
+main {
+  padding: 2rem;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+}

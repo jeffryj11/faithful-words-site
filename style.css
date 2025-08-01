@@ -1,0 +1,41 @@
+
+body {
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f5ef;
+  color: #3b2c2a;
+}
+header {
+  background-color: #4b2e2e;
+  color: #fbeee6;
+  text-align: center;
+  padding: 2rem 1rem 1rem 1rem;
+}
+.logo {
+  max-width: 100px;
+}
+nav a {
+  margin: 0 1rem;
+  color: #fbeee6;
+  text-decoration: none;
+  font-weight: bold;
+}
+main {
+  padding: 2rem;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  background-color: #4b2e2e;
+  color: #fbeee6;
+}
+.tagline {
+  font-style: italic;
+  margin-top: -0.5rem;
+}
+.byline {
+  font-style: italic;
+  margin-bottom: 1rem;
+}
